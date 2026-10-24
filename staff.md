@@ -7,12 +7,12 @@
 *The executive team oversees overall operations, financial management, server direction, and high-level decision-making.*
 
 - **Hassan** *(a.k.a. Habib)*
-  - **Role:** Co-Owner / Founder & Lead Administrator
+  - **Role:** Owner
   - **Age:** 16
   - **Responsibilities:** Server Vision, Financials, Major Updates & Community Management.
 
 - **Hisbullah** *(a.k.a. TheMyst)*
-  - **Role:** Co-Owner / Founder & Head of Operations
+  - **Role:** Co-owner
   - **Age:** 15
   - **Responsibilities:** Server Infrastructure, Plugin Management, and Staff Coordination.
 
