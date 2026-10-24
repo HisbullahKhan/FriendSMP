@@ -28,13 +28,17 @@
 
 ---
 
-## 🛡️ Moderation & Administration *(Recruitment Open)*
+## 🛡️ Moderation & Administration
 > *Our moderation team ensures a safe, fair, and friendly environment for all players across the SMP and Discord.*
+
+- **Hussain** *(a.k.a. Jack)*
+  - **Role:** Senior Moderator
+  - **Age:** 16
+  - **Responsibilities:** Overseeing daily in-game moderation, training junior staff, and handling player disputes.
 
 | Rank | Status / Description | Members |
 | :--- | :--- | :--- |
 | **Head Moderator** | Manages the staff team and handles major player appeals. | *[Vacant / Coming Soon]* |
-| **Senior Moderator** | Oversees daily in-game moderation and trains junior staff. | *[Vacant / Coming Soon]* |
 | **Moderator** | Monitors chat, handles reports, and assists players in-game. | *[Vacant / Coming Soon]* |
 | **Trial Helper** | Entry-level staff assisting with basic player support. | *[Vacant / Coming Soon]* |
 
