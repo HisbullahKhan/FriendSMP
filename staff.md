@@ -51,4 +51,4 @@
 - **Professionalism:** Represent the FriendSMP brand respectfully at all times.
 
 ---
-*© 2026 FriendSMP. All rights reserved. Built for an ultimate survival experience.*
+*© 2026 FriendSMP. All rights reserved.*
