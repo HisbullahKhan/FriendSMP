@@ -3,21 +3,14 @@
 
 ---
 
-## 🛡️ Rule I: Respect & Base Protection
-*Respect the time, effort, and sweat everyone puts into their builds.*
-* **No Griefing or Stealing:** Do not destroy, alter, or steal from anyone else’s base, builds, or chests without explicit permission. **Always ask first!**
-* **Consequences:** Griefing or looting will result in a rollback, item compensation, and potential server ban.
-
----
-
-## ⚖️ Rule II: Fair Play & Modifications
+## ⚖️ Rule I: Fair Play & Modifications
 *Minecraft is only fun when everyone plays on a level playing field.*
 * **Zero Tolerance for Cheats:** Hacking, exploiting bugs/duplication glitches, or using X-ray texture packs/mods is strictly forbidden.
 * **Allowed Modifications:** Quality-of-Life (QoL) mods like **OptiFine, Sodium, Iris, Fullbright, and Minimaps/Map mods** are totally fine to use.
 
 ---
 
-## 🎭 Rule III: Friendly Pranks & Banter
+## 🎭 Rule II: Friendly Pranks & Banter
 *Good-natured fun keeps the community lively, but boundaries must be respected.*
 * **Acceptable:** Lighthearted banter and harmless jokes.
 * **Strictly Prohibited:** Permanent damage, killing player pets, burning down structures, or trapping players without consent.
@@ -25,14 +18,14 @@
 
 ---
 
-## 💬 Rule IV: Chat & Voice Etiquette
+## 💬 Rule III: Chat & Voice Etiquette
 *Keep the communication respectful, friendly, and positive.*
 * **Positive Atmosphere:** Harassment, hate speech, toxicity, excessive spam, or bullying of any kind will not be tolerated.
 * **Language & Tone:** Keep chat clean and welcoming so the atmosphere remains relaxed and comfortable for players of all backgrounds.
 
 ---
 
-## 🤝 Rule V: Community Support & Staff Policy
+## 🤝 Rule IV: Community Support & Staff Policy
 *We grow and thrive together as a united community.*
 * **Help Each Other Out:** If a new player joins or someone needs a hand gathering resources or building, step in and help. A helpful community makes the SMP experience amazing!
 * **No Admin Begging:** Asking staff for free items, creative mode, ranks, OP permissions, or unfair advantages is strictly prohibited. Earn your progress!
