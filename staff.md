@@ -22,7 +22,7 @@
 *Our tech wizards handle custom plugins, Discord bot integrations, server configurations, and performance optimization.*
 
 - **Farhan** *(a.k.a. EvilThunder)*
-  - **Role:** Lead Discord & Bot Developer
+  - **Role:** Lead Discord Developer
   - **Age:** 15
   - **Responsibilities:** Discord Bot Development, Web Integrations, and Automation Systems.
 
