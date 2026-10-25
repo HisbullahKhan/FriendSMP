@@ -55,17 +55,6 @@ Because FriendSMP is a private, whitelisted community, every new member must go 
 
 ---
 
-## Staff & Community Hierarchy
-
-Our server structure ensures smooth management and fair gameplay:
-
-* Owner / Developer: Oversees backend setup, plugins, and server maintenance.
-* Administrators / Senior Moderators: Handles major player reports, staff management, and appeals.
-* Junior Moderators: Monitors daily chat and assists new members.
-* Senior Members / Builders / Content Creators: Active community contributors and creators.
-
----
-
 ## License & Disclaimer
 
 © FriendSMP 2024-2026. ALL RIGHTS RESERVED. WE ARE NOT AFFILIATED WITH MOJANG AB.
