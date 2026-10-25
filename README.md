@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://i.ibb.co/hJcTsncQ/logo-1.png" alt="FriendSMP Logo" width="200">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Online%20%E2%80%94%20Whitelist%20Open-success?style=for-the-badge&logo=minecraft" alt="Server Status">
   <img src="https://img.shields.io/badge/Platform-Java%20PC-blue?style=for-the-badge&logo=java" alt="Platform">
   <a href="https://dsc.gg/friendsmpp" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
