@@ -1,54 +1,71 @@
-# 👑 FriendSMP — Official Staff Directory
-> *Welcome to the official command center of **FriendSMP**. This directory outlines our leadership, technical divisions, and administration teams keeping the realm running smoothly.*
+<p align="center">
+  <img src="https://i.ibb.co/q3Kq8MWz/logo.png" alt="FriendSMP Logo" width="180">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Directory-Staff%20%26%20Leadership-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Staff Directory">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=minecraft" alt="Status">
+</p>
+
+# FriendSMP — Official Staff Directory
+
+Welcome to the official command center of **FriendSMP**. This directory outlines our leadership, technical divisions, and administration teams keeping the realm running smoothly.
 
 ---
 
-## 👑 Executive Leadership
-*The executive team oversees overall operations, financial management, server direction, and high-level decision-making.*
+## Executive Leadership
+*The executive team oversees overall operations, server direction, and high-level decision-making.*
 
-- **Hassan** *(a.k.a. Habib)*
-  - **Role:** Owner
-  - **Age:** 16
-  - **Responsibilities:** Server Vision, Financials, Major Updates & Community Management.
+* **Hassan** *(Habib)*
+  * **Role:** Owner
+  * **Age:** 16
+  * **Responsibilities:** Server Vision, Financials, Major Updates & Community Management.
 
-- **Hisbullah** *(a.k.a. TheMyst)*
-  - **Role:** Co-owner
-  - **Age:** 15
-  - **Responsibilities:** Server Infrastructure, Plugin Management, and Staff Coordination.
+* **Hisbullah** *(TheMyst)*
+  * **Role:** Co-Owner
+  * **Age:** 15
+  * **Responsibilities:** Server Infrastructure, Plugin Management, and Staff Coordination.
 
 ---
 
-## 💻 Development & Technical Team
+## Development & Technical Team
 *Our tech wizards handle custom plugins, Discord bot integrations, server configurations, and performance optimization.*
 
-- **Farhan** *(a.k.a. EvilThunder)*
-  - **Role:** Lead Discord Developer
-  - **Age:** 15
-  - **Responsibilities:** Discord Bot Development, Web Integrations, and Automation Systems.
+* **Farhan** *(EvilThunder)*
+  * **Role:** Lead Discord Developer
+  * **Age:** 15
+  * **Responsibilities:** Discord Bot Development, Web Integrations, and Automation Systems.
 
 ---
 
-## 🛡️ Moderation & Administration
-> *Our moderation team ensures a safe, fair, and friendly environment for all players across the SMP and Discord.*
+## Moderation & Administration
+*Our moderation team ensures a safe, fair, and friendly environment for all players across the SMP and Discord.*
 
-- **Hussain** *(a.k.a. Jack)*
-  - **Role:** Senior Moderator
-  - **Age:** 16
-  - **Responsibilities:** Overseeing daily in-game moderation, training junior staff, and handling player disputes.
+* **Hussain** *(Jack)*
+  * **Role:** Senior Moderator
+  * **Age:** 16
+  * **Responsibilities:** Overseeing daily in-game moderation, training junior staff, and handling player disputes.
 
 | Rank | Status / Description | Members |
 | :--- | :--- | :--- |
-| **Head Moderator** | Manages the staff team and handles major player appeals. | *[Vacant / Coming Soon]* |
-| **Moderator** | Monitors chat, handles reports, and assists players in-game. | *[Vacant / Coming Soon]* |
-| **Trial Helper** | Entry-level staff assisting with basic player support. | *[Vacant / Coming Soon]* |
+| **Head Moderator** | Manages the staff team and handles major player appeals. | *[Vacant / Applications Open]* |
+| **Moderator** | Monitors chat, handles reports, and assists players in-game. | *[Vacant / Applications Open]* |
+| **Trial Helper** | Entry-level staff assisting with basic player support. | *[Vacant / Applications Open]* |
 
 ---
 
-## 📋 Staff Code of Conduct
-*All FriendSMP staff members are expected to adhere to the following core principles:*
-- **Neutrality:** Treat all players fairly without favoritism or abuse of powers.
-- **Activity:** Maintain active participation in-game and on Discord.
-- **Professionalism:** Represent the FriendSMP brand respectfully at all times.
+## Staff Code of Conduct
+
+All FriendSMP staff members are expected to adhere to the following core principles:
+
+1. **Neutrality:** Treat all players fairly without favoritism or abuse of powers.
+2. **Activity:** Maintain active participation both in-game and on Discord.
+3. **Professionalism:** Represent the FriendSMP brand respectfully at all times.
 
 ---
-*© 2026 FriendSMP. All rights reserved.*
+
+## License & Disclaimer
+
+FriendSMP is an independent community-driven project and is not official Minecraft content. We are not approved by or associated with Mojang or Microsoft. 
+
+© FriendSMP 2024-2026. ALL RIGHTS RESERVED.
