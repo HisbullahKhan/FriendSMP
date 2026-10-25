@@ -13,7 +13,7 @@ Welcome to the official command center of **FriendSMP**. This directory outlines
 
 ---
 
-## Executive Leadership
+## Ownership
 *The executive team oversees overall operations, server direction, and high-level decision-making.*
 
 * **Hassan** *(Habib)*
@@ -28,7 +28,7 @@ Welcome to the official command center of **FriendSMP**. This directory outlines
 
 ---
 
-## Management & Operations
+## Management
 *Our management team handles daily operations, community coordination, and overall project organization.*
 
 * **Farhan** *(EvilThunder)*
@@ -38,7 +38,7 @@ Welcome to the official command center of **FriendSMP**. This directory outlines
 
 ---
 
-## Moderation & Administration
+## Moderations & Administrations
 *Our moderation team ensures a safe, fair, and friendly environment for all players across the SMP and Discord.*
 
 * **Hussain** *(Jack)*
