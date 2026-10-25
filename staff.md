@@ -28,13 +28,13 @@ Welcome to the official command center of **FriendSMP**. This directory outlines
 
 ---
 
-## Development & Technical Team
-*Our tech wizards handle custom plugins, Discord bot integrations, server configurations, and performance optimization.*
+## Management & Operations
+*Our management team handles daily operations, community coordination, and overall project organization.*
 
 * **Farhan** *(EvilThunder)*
-  * **Role:** Lead Discord Developer
+  * **Role:** Manager
   * **Age:** 15
-  * **Responsibilities:** Discord Bot Development, Web Integrations, and Automation Systems.
+  * **Responsibilities:** Community Oversight, Operations Management, and Project Coordination.
 
 ---
 
