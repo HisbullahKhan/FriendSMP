@@ -37,7 +37,7 @@ To keep the community safe, fun, and active for everyone, all members must adher
 
 Because FriendSMP is a private, whitelisted community, every new member must go through a quick screening process:
 
-1. Head over to our Discord server: dsc.gg/friendsmpp
+1. Head over to our [Discord Server](https://dsc.gg/friendsmpp).
 2. Navigate to the applications channel.
 3. Click the application button to start your form.
 4. Answer all questions honestly and in your own words.
