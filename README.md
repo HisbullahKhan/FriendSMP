@@ -57,4 +57,6 @@ Because FriendSMP is a private, whitelisted community, every new member must go 
 
 ## License & Disclaimer
 
-© FriendSMP 2024-2026. ALL RIGHTS RESERVED. WE ARE NOT AFFILIATED WITH MOJANG AB.
+FriendSMP is an independent community-driven project and is not official Minecraft content. We are not approved by or associated with Mojang or Microsoft. 
+
+© FriendSMP 2024-2026. ALL RIGHTS RESERVED.
