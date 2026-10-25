@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online%20%E2%80%94%20Whitelist%20Open-success?style=for-the-badge&logo=minecraft" alt="Server Status">
   <img src="https://img.shields.io/badge/Platform-Java%20PC-blue?style=for-the-badge&logo=java" alt="Platform">
-  <img src="https://img.shields.io/badge/Discord-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://dsc.gg/friendsmpp" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 # FriendSMP — Official Repository
@@ -43,7 +43,7 @@ To keep the community safe, fun, and active for everyone, all members must adher
 
 Because FriendSMP is a private, whitelisted community, every new member must go through a quick screening process:
 
-1. Head over to our [Discord Server](https://dsc.gg/friendsmpp).
+1. Head over to our Discord server: **[Click Here to Join](https://dsc.gg/friendsmpp)**
 2. Navigate to the applications channel.
 3. Click the application button to start your form.
 4. Answer all questions honestly and in your own words.
